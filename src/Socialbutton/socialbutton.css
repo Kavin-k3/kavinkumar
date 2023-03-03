@@ -1,0 +1,19 @@
+.bg-img{
+    background-image: url("https://media.istockphoto.com/id/481229372/photo/spiral-galaxy-illustration-of-milky-way.jpg?s=612x612&w=0&k=20&c=O-OKRJWM_XhGv48z6OhOj_tKBwEaDsvhYKguEN1yuJM=");
+    background-size: cover;
+}
+.bg-img1{
+    margin: 4%;
+    text-align: center;
+
+}
+.s1{
+    color:black;
+    font-size: 100px;
+    padding-top: 15%;
+    
+
+}
+.kavi{
+    border-radius: 10px;
+}
